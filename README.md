@@ -6,6 +6,7 @@ Comandos que vamos a ver en esta **lección**:
 - git add . / git add -A: Preparamos nuestros cambios
 - git commit -m "descripción commit": Creamos el commit con el mensaje
 - git push: subimos a la nube
+- git pull: para traernos los cambios de la nube
 
 ```html
 <p> Esto es un párrafo </p>
